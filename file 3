@@ -1,0 +1,9 @@
+...
+<body>
+   <include src="./header.html"></include>
+
+   Content
+
+   <include src="./footer.html"></include>
+</body>
+...
